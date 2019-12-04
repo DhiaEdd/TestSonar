@@ -1,4 +1,4 @@
-package com.inti.formation.dao;
+package com.inti.formation;
 
 public class DaoImpl1 {
 

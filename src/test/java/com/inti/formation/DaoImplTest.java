@@ -1,10 +1,10 @@
-package com.inti.formation.test;
+package com.inti.formation;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.inti.formation.dao.DaoImpl1;
+import com.inti.formation.DaoImpl1;
 
 public class DaoImplTest {
 
